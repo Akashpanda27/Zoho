@@ -1,4 +1,5 @@
-# Zoho
+# ROLE HIERARCHY
+
 ->The above program is written in java language.make sure you have java-jdk installed before executing this program.
 -> Open a command prompt window and go to the directory where you saved the java program (OA.java). Assume it's C:\.
 ->Type "javac OA.java" and press enter to compile your code. 
